@@ -6,7 +6,7 @@ Each release attaches one install file, `tymeline-kicad-agent-<version>.zip`. Th
 
 ## Install
 
-1. Open [Releases](https://github.com/sayeed-hoda/kicad-plugin-release/releases) and download `tymeline-kicad-agent-<version>.zip`.
+1. Open [Releases](https://github.com/Quanscendence/kicad-plugin-release/releases) and download `tymeline-kicad-agent-<version>.zip`.
 2. In KiCad 10: **Plugin and Content Manager → Install from File…**
 3. Choose the zip, then **Apply Pending Changes**.
 4. Restart KiCad, open a PCB, and turn on **Preferences → Plugins → Enable KiCad API**.
